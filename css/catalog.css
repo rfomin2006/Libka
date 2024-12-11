@@ -63,6 +63,10 @@ header > select {
     text-align: center;
 }
 
+.genre {
+    cursor: pointer;
+}
+
 @media (max-width: 500px) {
     .catalog {
         justify-content: space-around;
